@@ -22,7 +22,7 @@ The demo company is fictional (PT Makmur Abadi, a garment manufacturer). All dat
 | ![Stock ledger](screenshots/03-stock-ledger.png) | ![Balance sheet](screenshots/04-balance-sheet.png) |
 | **Stock ledger**: every movement per item and warehouse | **Balance sheet**: balanced check, Indonesian accounting standard (PSAK) layout |
 
-*Some labels are still in Indonesian; an English interface is in progress.*
+*The interface is in English (each user can switch to Indonesian). The demo company's data, such as item, warehouse and account names, is in Indonesian, and a few labels are still being translated.*
 
 ---
 
